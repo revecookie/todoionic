@@ -1,0 +1,9 @@
+/* Empty. Add your own CSS if you like */
+.todoInput {
+  border-style: none;
+  border-bottom-style: groove;
+}
+
+.todoCard {
+  background-color: #edf3ff !important;
+}
